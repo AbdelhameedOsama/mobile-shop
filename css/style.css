@@ -1,0 +1,42 @@
+.nav-item:hover{
+    border-bottom: 2px black solid;
+    transition: all .4s;
+    padding-top: 4rem;
+}
+.nav-item{
+    transition: all .4s; 
+
+}
+.home{
+    background-image:linear-gradient(to right bottom,blue,lightgreen ) ;
+    height: 715px;
+}
+nav{
+    box-shadow: rgba(0, 0, 255, 0.678) 2px -2px 0px 5px;
+}
+.card-img-top{
+    max-height:  300px; 
+    min-height: 300px;
+}
+.img1{
+
+    transform: translateY(-100px);
+}
+.btn-show{
+    background-image:linear-gradient(to right bottom,blue,lightgreen ) ;
+    color: white;
+    border: none;
+    padding:10px 10px ;
+}
+.card:hover{
+    transition: all .4s;
+    box-shadow: rgba(0, 0, 0, 0.478) -1px 5px 5px;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
